@@ -81,6 +81,15 @@ print("Profit for the Population 70,000")
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
+
+1.Profit prediction graph         
+2.Compute cost value          
+3.h(x) value              
+4.Cost function using gradient descent graph            
+5.Profit prediction graph            
+6.Profit for the population of 35000         
+7.Profit for the population of 70000            
+
 ![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/b42a7fbc-68f1-45d9-adfb-dcb2598b0ea6)
 ![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/c4bb8a1f-856d-4530-a9f7-d99f12f9eef2)
 ![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/66760adb-5f83-4a62-811b-51f97809b6ac)
