@@ -82,18 +82,29 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 ## Output:
 
-1.Profit prediction graph         
-2.Compute cost value          
-3.h(x) value              
-4.Cost function using gradient descent graph            
-5.Profit prediction graph            
-6.Profit for the population of 35000         
-7.Profit for the population of 70000            
+### Profit Prediction
 
-![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/b42a7fbc-68f1-45d9-adfb-dcb2598b0ea6)
-![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/c4bb8a1f-856d-4530-a9f7-d99f12f9eef2)
-![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/66760adb-5f83-4a62-811b-51f97809b6ac)
-![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/6d3757b0-c30e-4431-8a7e-074b08a04288)
-![image](https://github.com/NamithaS2710/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/133190822/66277234-99ca-4efd-a94d-ae19c510c0c5)
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/a291c119-8fe4-46c6-877c-18c0b8e761ab)
+
+### Compute Cost
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/c219e692-5cc8-4b76-8b23-f7845cc84149)
+
+### h(x) Value
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/e0aa8f1e-8c95-42b8-8024-e116a2ba5bb7)
+
+### Cost function using Gradient Descent Graph
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/cc61d23f-5bf9-4b4d-80d0-3d4f9e5611d0)
+
+### Profit Prediction
+
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/aea93272-9548-447e-b7c9-b71107a5285e)
+
+### Profit for the Population 35,000
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/b2925b27-eb39-4731-9126-83232f711805)
+
+### Profit for the Population 70,000
+![image](https://github.com/SandhiyaR1/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497571/09755fed-be1f-4b5d-a865-4f411f600f42)
+
+
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
